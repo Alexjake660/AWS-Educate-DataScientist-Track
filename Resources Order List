@@ -1,37 +1,37 @@
-Section 1 - Data and Databases: Big Data.
-	Module 1 - Databases: Big Data Introduction.
+Module 1 - Data and Databases: Big Data.
+	Section 1 - Databases: Big Data Introduction.
 		No Videos.
-	Module 2 - Databases: Big Data General.
-		Video 1 - AWS January 2016 Webinar Series - Getting Started with Big Data on AWS.
-		Video 2 - AWS Re-Invent 2015 - (BDT205) Your First Big Data Application on AWS.
-	Module 3 - Databases: Big Data Analytics.
-		Video 1 - Big Data Analytics on Amazon Web Services (AWS).
+	Section 2 - Databases: Big Data General.
+		Video 1 - AWS January 2016 Webinar Series - Getting Started with Big Data on AWS. Duration: 57mins4secs.
+		Video 2 - AWS Re-Invent 2015 - (BDT205) Your First Big Data Application on AWS. Duration: 51mins12secs.
+	Section 3 - Databases: Big Data Analytics.
+		Video 1 - Big Data Analytics on Amazon Web Services (AWS). Duration: 58mins46secs.
 		Video 2 - Getting started with Real-Time Data Analytics on AWS.
 		Video 3 - Bid Data on AWS - Structured, Unstructured Streaming.
 		Video 4 - AWS March 2016 Webinar Series - Building Big Data solutions with Amazon EMR and Amazon Redshift.
 		Video 5 - Introduction to Amazon Elastic Map Reduce.
 		Video 6 - Get started with Real-Time streaming Data in under 5 minutes - AWS online Tech Talks.
 		Video 7 - AWS May 2016 Webinar Series - Evolving your Big Data use cases from Batch to Real-Time.
-	Module 4 - Databases: Big Data Architecture.
-	Module 5 - Databases: Big Data and HPC.
-	Module 6 - Databases: Big Data and Visualization.
-	Module 7 - Databases: Big Data and Streaming.
+	Section 4 - Databases: Big Data Architecture.
+	Section 5 - Databases: Big Data and HPC.
+	Section 6 - Databases: Big Data and Visualization.
+	Section 7 - Databases: Big Data and Streaming.
 
 
-Section 2 - Data and Databases: Structures, Relational and Non-relational.
-	Module 1 - Databases: Data Structures
-	Module 2 - Databases: Data Warehouses and Lakes
-	Module 3 - Databases: Non-relational
-	Module 4 - Databases: Relational
+Module 2 - Data and Databases: Structures, Relational and Non-relational.
+	Section 1 - Databases: Data Structures
+	Section 2 - Databases: Data Warehouses and Lakes
+	Section 3 - Databases: Non-relational
+	Section 4 - Databases: Relational
 
 
-Section 3 - Software Development: Programming and Scripting.
-	Module 1 - Software Development: Programming - Python.
+Module 3 - Software Development: Programming and Scripting.
+	Section 1 - Software Development: Programming - Python.
 
 
-Section 4 - Platform Technologies.
-	Module 1 - Platform: General.
-	Module 2 - Platform: Operating Systems.
-	Module 3 - Platform: Operating Systems, continued.
-	Module 4 - Platform: Virtualization.
-	Module 5 - Platform: Virtualization, continued.
+Module 4 - Platform Technologies.
+	Section 1 - Platform: General.
+	Section 2 - Platform: Operating Systems.
+	Section 3 - Platform: Operating Systems, continued.
+	Section 4 - Platform: Virtualization.
+	Section 5 - Platform: Virtualization, continued.
