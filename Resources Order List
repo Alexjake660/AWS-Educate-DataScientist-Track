@@ -2,18 +2,27 @@ Module 1 - Data and Databases: Big Data.
 	Section 1 - Databases: Big Data Introduction.
 		No Videos.
 	Section 2 - Databases: Big Data General.
-		Video 1 - AWS January 2016 Webinar Series - Getting Started with Big Data on AWS. Duration: 57mins4secs.
-		Video 2 - AWS Re-Invent 2015 - (BDT205) Your First Big Data Application on AWS. Duration: 51mins12secs.
+		Video Resources.
+			Video 1 - AWS January 2016 Webinar Series - Getting Started with Big Data on AWS. Duration: 57mins4secs.
+			Video 2 - AWS Re-Invent 2015 - (BDT205) Your First Big Data Application on AWS. Duration: 51mins12secs.
 	Section 3 - Databases: Big Data Analytics.
-		Udacity Course 1 - Introduction to Data Analysis: https://www.udacity.com/course/intro-to-data-analysis--ud170
-		Udacity Course 2 - Introduction to Data Science: https://www.udacity.com/course/intro-to-data-science--ud359
-		Video 1 - Big Data Analytics on Amazon Web Services (AWS). Duration: 1min51secs.
-		Video 2 - Introduction to Amazon Elastic Map Reduce. Duration: 3mins06secs.
-		Video 3 - Getting started with Real-Time Data Analytics on AWS. Duration: 57mins43secs.
-		Video 4 - Get started with Real-Time streaming Data in under 5 minutes - AWS online Tech Talks. Duration: 36mins38secs. 
-		Video 5 - Big Data on AWS - Structured, Unstructured Streaming. Duration: 54mins22secs.
-		Video 6 - AWS May 2016 Webinar Series - Evolving your Big Data use cases from Batch to Real-Time. Duration: 57mins29secs.
-		Video 7 - AWS March 2016 Webinar Series - Building Big Data solutions with Amazon EMR and Amazon Redshift. Duration: 57mins11secs.
+		Udacity Courses.
+			Udacity Course 1 - Introduction to Data Analysis: https://www.udacity.com/course/intro-to-data-analysis--ud170
+			Udacity Course 2 - Introduction to Data Science: https://www.udacity.com/course/intro-to-data-science--ud359
+		Text Resources.
+			Resouce 1 - Big Data Analytics Options on AWS: https://d0.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf
+			Resouce 2 - Troubleshoot a Cluster - AWS: https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-troubleshoot.html
+		Video Resources.
+			Video 1 - Big Data Analytics on Amazon Web Services (AWS). Duration: 1min51secs.
+			Video 2 - Introduction to Amazon Elastic Map Reduce. Duration: 3mins06secs.
+			Video 3 - Getting started with Real-Time Data Analytics on AWS. Duration: 57mins43secs.
+			Video 4 - Get started with Real-Time streaming Data in under 5 minutes - AWS online Tech Talks. Duration: 36mins38secs. 
+			Video 5 - Big Data on AWS - Structured, Unstructured Streaming. Duration: 54mins22secs.
+			Video 6 - AWS May 2016 Webinar Series - Evolving your Big Data use cases from Batch to Real-Time. Duration: 57mins29secs.
+			Video 7 - AWS March 2016 Webinar Series - Building Big Data solutions with Amazon EMR and Amazon Redshift. Duration: 57mins11secs.
+		Call to Action.
+			Project for Lab: Analyze Big Data with Hadoop: https://aws.amazon.com/getting-started/projects/analyze-big-data/
+			Lab: Analyzing Big Data with Hadoop: https://run.qwiklab.com/focuses/267?parent=catalog
 	Section 4 - Databases: Big Data Architecture.
                 Video 1 - Example Big Data Stacks
                 Video 2 - Big Data Framework - Big Data Hadoop Tutorial For Beginners - Big Data Hadoop Training - Simplilearn
