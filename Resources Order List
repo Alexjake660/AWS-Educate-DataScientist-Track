@@ -1,14 +1,21 @@
 Module 1 - Data and Databases: Big Data.
+	
 	Section 1 - Databases: Big Data Introduction.
+		Text Resources.
+			Resource 1 - Techopedia Definition of Big Data: https://www.techopedia.com/definition/27745/big-data
 		No Videos.
+	
 	Section 2 - Databases: Big Data General.
 		Video Resources.
 			Video 1 - AWS January 2016 Webinar Series - Getting Started with Big Data on AWS. Duration: 57mins4secs.
 			Video 2 - AWS Re-Invent 2015 - (BDT205) Your First Big Data Application on AWS. Duration: 51mins12secs.
+	
 	Section 3 - Databases: Big Data Analytics.
 		Udacity Courses.
 			Udacity Course 1 - Introduction to Data Analysis: https://www.udacity.com/course/intro-to-data-analysis--ud170
 			Udacity Course 2 - Introduction to Data Science: https://www.udacity.com/course/intro-to-data-science--ud359
+		Case Study.
+			Yelp: https://aws.amazon.com/solutions/case-studies/yelp/
 		Text Resources.
 			Resouce 1 - Big Data Analytics Options on AWS: https://d0.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf
 			Resouce 2 - Troubleshoot a Cluster - AWS: https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-troubleshoot.html
@@ -23,6 +30,7 @@ Module 1 - Data and Databases: Big Data.
 		Call to Action.
 			Project for Lab: Analyze Big Data with Hadoop: https://aws.amazon.com/getting-started/projects/analyze-big-data/
 			Lab: Analyzing Big Data with Hadoop: https://run.qwiklab.com/focuses/267?parent=catalog
+	
 	Section 4 - Databases: Big Data Architecture.
 		Video Resources.
 			Video 1 - Example Big Data Stacks. Duration: 5mins13secs.
@@ -30,32 +38,48 @@ Module 1 - Data and Databases: Big Data.
 			Video 3 - AWS re-Invent 2017- Big Data Architectural Patterns and Best Practices on AWS (ABD201). Duration: 59mins55secs.
 			Video 4 - February 2016 Webinar Series - Architectural Patterns for Big Data on AWS. Duration: 44mins42secs.
 			Video 5 - Building A Modern Data Architecture on AWS (Level 200). Duration: 23mins20secs.
+	
 	Section 5 - Databases: Big Data and HPC.
                 Video 1 - High Performance Computing (HPC) with Amazon Web Services
                 Video 2 - High Performance Computing in the Cloud with AWS and Cycle Computing
+	
 	Section 6 - Databases: Big Data and Visualization.
                 Video 1 - What is Data Visualization
                 Video 2 - Analytics on the Cloud with Tableau on AWS
                 Video 3 - Introducing Amazon QuickSight
+	
 	Section 7 - Databases: Big Data and Streaming.
                 No Video
 
 
+
 Module 2 - Data and Databases: Structures, Relational and Non-relational.
+	
 	Section 1 - Databases: Data Structures
 		Video 1 - AWS June 2016 Webinar Series - Best Practices for Architecting Cloud Backup and Recovery Solutions. Duration: 1hr7mins34secs.
+	
 	Section 2 - Databases: Data Warehouses and Lakes
+	
 	Section 3 - Databases: Non-relational
+	
 	Section 4 - Databases: Relational
 
 
+
 Module 3 - Software Development: Programming and Scripting.
+	
 	Section 1 - Software Development: Programming - Python.
 
 
+
 Module 4 - Platform Technologies.
+
 	Section 1 - Platform: General.
+
 	Section 2 - Platform: Operating Systems.
+
 	Section 3 - Platform: Operating Systems, continued.
+
 	Section 4 - Platform: Virtualization.
+
 	Section 5 - Platform: Virtualization, continued.
